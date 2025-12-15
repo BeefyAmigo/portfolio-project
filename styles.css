@@ -32,3 +32,12 @@ nav ul {
 nav li {
     padding-left: 3.5rem;
 }
+
+/* Main Content */
+
+/* Intro */
+
+#intro {
+    display: flex;
+    justify-content: center;
+}
