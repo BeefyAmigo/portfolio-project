@@ -51,3 +51,13 @@ nav li {
     display: flex;
     justify-content: center;
 }
+
+.description {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#intro img {
+    width: 30rem;
+}
